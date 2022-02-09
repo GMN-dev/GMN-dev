@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel 😁 👋
 
-[![card](https://github-readme-stats.vercel.app/api?username=GMN-dev&theme=default&show_icons=true)](https://github.com/GMN-dev/)
+[![card](https://github-readme-stats.vercel.app/api?username=GMN-dev&theme=draculat&show_icons=true)](https://github.com/GMN-dev/)
 
 - 🔭 Currently i'm studying to be a Web Back-End Developer...
 - 🌱 learning about Python, PHP and Javascript ...
