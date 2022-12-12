@@ -8,4 +8,4 @@
 - 📫 How to reach me: ... g.magalhaes.dev@gmail.com
 
 <h2> Take a look at my repositories<h2/> 
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://github-readme-stats.vercel.app/api/top-langs/?username={GMN-dev}
