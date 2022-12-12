@@ -8,4 +8,4 @@
 - 📫 How to reach me: ... g.magalhaes.dev@gmail.com
 
 <h2> Take a look at my repositories<h2/> 
-https://github-readme-stats.vercel.app/api/top-langs/?username=GMN-dev
+https://github-readme-stats.vercel.app/api/top-langs/?username={GMN-dev}
