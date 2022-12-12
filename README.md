@@ -6,5 +6,5 @@
 - 📫 How to reach me: ... g.magalhaes.dev@gmail.com
 
 <h2> Take a look at my repositories<h2/> 
-[![card](https://github-readme-stats.vercel.app/api?username=GMN-dev&theme=draculat&show_icons=true)](https://github.com/GMN-dev/))
+[![card](https://github-readme-stats.vercel.app/api?username=GMN-dev&theme=draculat&show_icons=true)](https://github.com/GMN-dev/
 
