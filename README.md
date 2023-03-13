@@ -20,7 +20,7 @@ Sou estudante de computação na UnB (Universidade de Brasília) porém gosto de
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 - 📫 Como me encontrar: g.magalhaes.dev@gmail.com: ⤵️
 </p>
 
 <p align="left">
@@ -40,10 +40,5 @@ Sou estudante de computação na UnB (Universidade de Brasília) porém gosto de
 <br>
 
 </div>
-
-- 🌱 learning about Python/Django and Javascript/React/Node ...
-- 👯 I'm looking to make connections for my odyssey in this amazing technological universe
-- 📫 How to reach me: ... g.magalhaes.dev@gmail.com
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 
 
