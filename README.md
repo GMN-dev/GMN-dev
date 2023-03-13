@@ -8,8 +8,7 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Sou estudante de computação na UnB (Universidade de Brasília) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, me convidaram a participar do desenvolvimento de um software interno que estou desenvolvendo com Django. Gostaria de uma oportunidade para ingressar no mercado e agregar não só com meus conhecimentos técnicos mas com a minha paixão por tecnologia e minha vontade insaciável por aprender.
 </p>
 
 <p align="left">
@@ -29,7 +28,7 @@
   <a href="https://www.linkedin.com/in/gabriel-magalh%C3%A3es-b98a341ab/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/magalhaes.dev/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
