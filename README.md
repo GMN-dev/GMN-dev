@@ -5,25 +5,46 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMN-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://user-images.githubusercontent.com/47038612/151218734-9d3aa831-6771-47c8-b686-bb664bc9e061.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/47038612/151221183-1c2801b6-efda-4a13-b0fa-712228c8f08d.svg">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Python - Javascript</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Django - Django Rest Framework - React - Bootstrap - ChartJS - Git - MySQL - HTML/CSS </strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/gabriel-magalh%C3%A3es-b98a341ab/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
 </div>
   
   ##
  
 <div> 
 <br>
-  <a href="https://www.linkedin.com/in/gabriel-magalh%C3%A3es-b98a341ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
-- 🔭 Currently i'm studying to be a Back-End Developer...
+
 - 🌱 learning about Python/Django and Javascript/React/Node ...
 - 👯 I'm looking to make connections for my odyssey in this amazing technological universe
 - 📫 How to reach me: ... g.magalhaes.dev@gmail.com
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<h2> Take a look at my repositories<h2/> 
+
 
