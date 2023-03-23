@@ -40,7 +40,7 @@ Sou estudante de computação na UnB (Universidade de Brasília) porém gosto de
 <br>
 
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Savio-Anjos&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GMN-dev&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
