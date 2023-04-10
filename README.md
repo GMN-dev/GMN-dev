@@ -8,7 +8,7 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Sou estudante de computação na UnB (Universidade de Brasília) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, me convidaram a participar do desenvolvimento de um software interno que estou desenvolvendo com Django. Gostaria de uma oportunidade para ingressar no mercado e agregar não só com meus conhecimentos técnicos mas com a minha paixão por tecnologia e minha vontade insaciável por aprender.
+Sou estudante de computação na UnB (Universidade de Brasília) e de Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, me convidaram a participar do desenvolvimento de um software interno que estou desenvolvendo com Django. Gostaria de uma oportunidade para ingressar no mercado e agregar não só com meus conhecimentos técnicos mas com a minha paixão por tecnologia e minha vontade insaciável por aprender.
 </p>
 
 <p align="left">
