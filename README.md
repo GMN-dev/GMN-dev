@@ -43,4 +43,4 @@ Sou estudante de computação na UnB (Universidade de Brasília) e de Analise e 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GMN-dev&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
