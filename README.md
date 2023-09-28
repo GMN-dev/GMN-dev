@@ -36,6 +36,4 @@ Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenv
  
 <div> 
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GMN-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
