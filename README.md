@@ -8,15 +8,15 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, me convidaram a participar do desenvolvimento de um software interno que estou desenvolvendo com Django. Gostaria de uma oportunidade para ingressar no mercado e agregar não só com meus conhecimentos técnicos mas com a minha paixão por tecnologia e minha vontade insaciável por aprender.
+Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, desenvolvi soluções baseadas em Java, Python (Django) e PowerShell. Gostaria de uma oportunidade para ingressar no mercado e agregar não só com meus conhecimentos técnicos mas com a minha paixão por tecnologia e minha vontade insaciável por aprender.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python - Javascript</strong>
+  🦄 Linguagens: <strong>Java - Python - Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React - Bootstrap - ChartJS - Git - MySQL - HTML/CSS - Django - Django Rest Framework - Java</strong>
+  💼 Ferramentas: <strong>Java - Angular - React - Redux - Bootstrap - Git - MySQL - Django - Django Rest Framework</strong>
 </p>
 
 <p align="left">
