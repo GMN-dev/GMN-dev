@@ -5,7 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMN-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ <img src="https://github.com/GMN-dev/GMN-dev/assets/84913052/6772eaca-0ed9-4bca-94a9-4d326463aa6e min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador iuriCode">
+
+![_96bc680e-d850-4c88-9ede-18f2ae52feac]()
+
 
 <p align="left"> 
 Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, desenvolvi soluções baseadas em Java, Python (Django) e PowerShell. Gostaria de uma oportunidade para ingressar no mercado e agregar não só com meus conhecimentos técnicos mas com a minha paixão por tecnologia e minha vontade insaciável por aprender.
