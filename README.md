@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/GMN-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GMN-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMN-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div>
 <div style="display: inline_block"><br>
  <img src="https://github.com/GMN-dev/GMN-dev/assets/84913052/6772eaca-0ed9-4bca-94a9-4d326463aa6e min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador iuriCode">
