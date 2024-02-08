@@ -1,8 +1,6 @@
 ## Oi, me chamo Gabriel 😁 👋
 <div align="center">
   <a href="https://github.com/GMN-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GMN-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
 </div>
 <div style="display: inline_block"><br>
  <img src="https://github.com/GMN-dev/GMN-dev/assets/84913052/6772eaca-0ed9-4bca-94a9-4d326463aa6e min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador iuriCode">
@@ -16,11 +14,11 @@ Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenv
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Java - Angular - React - Redux - Bootstrap - Git - MySQL - Django - Django Rest Framework</strong>
+  💼 Ferramentas: <strong>Angular - React - Redux - Bootstrap - Git - MySQL - Django - Django Rest Framework</strong>
 </p>
 
 <p align="left">
-  💌 - 📫 Como me encontrar: g.magalhaes.dev@gmail.com: ⤵️
+  💌 - 📫 Como me encontrar: 61 998210860 - g.magalhaes.dev@gmail.com: ⤵️ 
 </p>
 
 <p align="left">
@@ -31,8 +29,6 @@ Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenv
 </p>  
 
 </div>
-  
-  ##
  
 <div> 
 <br>
