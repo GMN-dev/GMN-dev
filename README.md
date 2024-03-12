@@ -3,7 +3,8 @@
   <a href="https://github.com/GMN-dev">
 </div>
 <div style="display: inline_block"><br>
- <img src="https://github.com/GMN-dev/GMN-dev/assets/84913052/6772eaca-0ed9-4bca-94a9-4d326463aa6e min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador iuriCode">
+<img src="https://github.com/GMN-dev/GMN-dev/assets/84913052/e76ce88c-ea3e-453e-ad6e-9b1c1c3e9a77" min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador iuriCode"> 
+
 
 <p align="left"> 
 Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, desenvolvo soluções baseadas em Java, Python (Django) e PowerShell para time de Field Service. Estou estudando para a certificação Oracle Certified Professional: Java SE 17 Developer. Estudando para ser um especialista.
