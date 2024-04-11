@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
-Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, desenvolvo soluções baseadas em Java, Python (Django) e PowerShell para time de Field Service. Estou estudando para a certificação Oracle Certified Professional: Java SE 17 Developer. Estudando para ser um especialista.
+Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, desenvolvo soluções baseadas em Java, Python (Django) e PowerShell para time de Field Service. Estou estudando para a certificação Oracle Certified Professional: Java SE 17 Developer. 
 </p>
 
 <p align="left">
