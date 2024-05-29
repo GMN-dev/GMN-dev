@@ -15,7 +15,7 @@ Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenv
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React - React Native - Java - Spring - Spring Boot - Angular - Redux - Bootstrap - Git - MySQL - Django - Django Rest Framework</strong>
+  💼 Ferramentas: <strong>React - React Native - Java - Spring - Spring Boot - Angular - Redux - Tailwind - Bootstrap - Git - MySQL - Django - Django Rest Framework</strong>
 </p>
 
 <p align="left">
