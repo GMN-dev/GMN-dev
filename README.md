@@ -1,28 +1,50 @@
-## Oi, me chamo Gabriel 😁 👋
-<div align="center">
-  <a href="https://github.com/GMN-dev">
-</div>
-<div style="display: inline_block"><br>
-<img src="https://github.com/GMN-dev/GMN-dev/assets/84913052/e76ce88c-ea3e-453e-ad6e-9b1c1c3e9a77" min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador iuriCode"> 
+## Hi, i'm Gabriel 😁 👋
+# About Me  
 
+Welcome to my GitHub profile! I'm a **dedicated full-stack developer** passionate about building efficient, user-friendly applications. Here's an overview of my skills, experience, and career aspirations:  
 
-<p align="left"> 
-Estudei computação na UnB (Universidade de Brasília) e agora Analise e Desenvolvimento de Sistemas na Faculdade Descomplica (UniAmerica) porém gosto de ir além. Faço parte do Grupo Poliglota Brasília, Já atuei na empresa Junior da UnB, e atualmente apesar de atuar como suporte na Stefanini, desenvolvo soluções baseadas em Java, Python (Django) e PowerShell para time de Field Service. Estou estudando para a certificação Oracle Certified Professional: Java SE 17 Developer. 
-</p>
+---
 
-<p align="left">
-  🦄 Linguagens: <strong>Java - Python - Javascript</strong>
-</p>
+## 👨‍💻 Technical Skills  
+### Back-End Development  
+- **Java**: Expertise in creating scalable and secure applications using **Spring Boot**, with an interest in **Quarkus**.  
+- **Python**: Proficient with **Django** and **Django REST Framework**, applied in projects like a **peripheral management system** for Stefanini IT Solutions.  
 
-<p align="left">
-  💼 Ferramentas: <strong>React - React Native - Java - Spring - Spring Boot - Angular - Redux - Tailwind - Bootstrap - Git - MySQL - Django - Django Rest Framework</strong>
-</p>
+### Front-End Development  
+- Experienced with **ReactJS** and **NextJS**, using modern frameworks like **Tailwind CSS** for sleek, responsive interfaces.  
+- Proficient with **Recharts** for dynamic and insightful data visualizations.  
+- Currently learning **Angular** to enhance my front-end expertise.  
 
-<p align="left">
-  💌 - 📫 Como me encontrar: 61 998210860 - g.magalhaes.dev@gmail.com: ⤵️ 
-</p>
+### Mobile Development  
+- Developed apps with **React Native**, including a **workout management app** featuring drag-and-drop functionality and custom exercise creation.  
 
-<p align="left">
+### Full-Stack Proficiency  
+- Enthusiastic about delivering end-to-end solutions, from database architecture to interactive UIs, ensuring high-quality and maintainable codebases.
+
+---
+
+## 📚 Certifications & Learning Goals  
+- Currently preparing for the **Oracle Certified Professional: Java SE 17 Developer** certification.  
+- Continuously expanding my technical expertise to stay updated with the latest tools and technologies.  
+
+---
+
+## 🌟 Recent Projects  
+- **Hardware Management System**: A complete solution built with **NextJS**, **Spring Boot**, and **Recharts** to replace manual spreadsheets for a company, streamlining inventory and maintenance processes.  
+- **Event Venue Website**: Designed and deployed a website for a countryside venue specializing in hosting various events.  
+- **Betting Pool Website**: Created an interactive platform for managing betting pools, improving user engagement and experience.
+
+---
+
+## 🚀 Career Aspirations  
+- Secure a **full-time software developer** role, ideally as a **full-stack developer**, where I can contribute to meaningful projects from inception to deployment.  
+- Further develop my skills in frameworks like **Spring Boot**, **Angular**, and **ReactJS** to excel in both back-end and front-end development.  
+
+---
+
+## 💬 Let's Collaborate  
+If you're looking for a developer with a strong foundation in **Java**, **Python**, and modern front-end frameworks, along with a passion for delivering well-architected solutions, feel free to reach out!  
+
 
   <a href="https://www.linkedin.com/in/gabriel-magalh%C3%A3es-b98a341ab/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
